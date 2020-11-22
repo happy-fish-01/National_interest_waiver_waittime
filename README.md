@@ -1,2 +1,2 @@
-# National_interest_waiver_waittime
+# National Interest Waiver Waittime
 USCIS Employment-based-2 national interest waiver wait time
