@@ -5,4 +5,4 @@ USCIS Employment-based-2 national interest waiver wait time before approval (dat
 ![Figure_1](https://github.com/happy-fish-01/National_interest_waiver_waittime/blob/main/fig1.png)
 
 2. Approval cases by month
-![Figure_2](https://github.com/happy-fish-01/National_interest_waiver_waittime/blob/main/fig1.png)
+![Figure_2](https://github.com/happy-fish-01/National_interest_waiver_waittime/blob/main/fig2.png)
