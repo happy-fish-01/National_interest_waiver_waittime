@@ -1,4 +1,4 @@
-## National Interest Waiver Wait Time, updated Nov-25-2020 
+## National Interest Waiver Wait Time, updated Nov-26-2020 
 USCIS Employment-based-2 national interest waiver wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
  
 1. Distribution plot of approval time on by month, divided into Texas center and Nebraska center (diamonds are <5% and >95% outliers) 
