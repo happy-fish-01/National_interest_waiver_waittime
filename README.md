@@ -4,7 +4,7 @@ USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Vict
 1. Distribution plot of wait time before approval by month, divided into Texas center and Nebraska center (diamonds are <5% or >95% outliers) 
 ![Figure_1](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig1.png) 
  
-How to read the plot: 
+* How to read the plot: 
  
 ![Figure_3](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig3.PNG) 
  
