@@ -5,6 +5,6 @@ USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Vict
 ![Figure_1](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig1.png) 
  
 * legend of the plot: 
-![Figure_3](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig3.jpg) 
+![Figure_3](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig3.PNG) 
 2. Approval cases by month 
 ![Figure_2](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig2.png)
