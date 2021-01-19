@@ -11,4 +11,6 @@ USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Vict
  
 2. Approval cases by month 
  
-![Figure_2](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig2.png)
+![Figure_2](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig2.png) 
+ 
+* If you are impacted by the slowdown of TSC's processing of NIW I-140, you can fill out the form to bring awareness to this delay [from Greg Siskind's tweet](https://twitter.com/gsiskind/status/1351597348577824772) 
