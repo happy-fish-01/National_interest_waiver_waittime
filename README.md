@@ -1,4 +1,4 @@
-## National Interest Waiver Wait Time, updated Jan-14-2021 
+## National Interest Waiver Wait Time, updated Jan-19-2021 
 USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
  
 1. Distribution plot of wait time before approval by month, divided into Texas center and Nebraska center 
