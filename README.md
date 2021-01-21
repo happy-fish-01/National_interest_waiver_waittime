@@ -1,4 +1,6 @@
-## National Interest Waiver Wait Time, updated Jan-19-2021 
+## National Interest Waiver Wait Time, updated Jan-21-2021 
+If you are impacted by the slowdown of TSC's processing of NIW I-140 (or I-485, or I-765), you can fill out the form to bring awareness to this delay [from Greg Siskind's tweet](https://twitter.com/gsiskind/status/1351597348577824772). Please make sure to explain your case in: 'Describe the harm the processing delays are causing you' 
+ 
 USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
  
 1. Distribution plot of wait time before approval by month, divided into Texas center and Nebraska center 
@@ -13,4 +15,3 @@ USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Vict
  
 ![Figure_2](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig2.png) 
  
-* If you are impacted by the slowdown of TSC's processing of NIW I-140, you can fill out the form to bring awareness to this delay [from Greg Siskind's tweet](https://twitter.com/gsiskind/status/1351597348577824772) 
