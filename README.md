@@ -1,5 +1,5 @@
-## National Interest Waiver Wait Time, updated Jan-22-2021 
-* *If you are impacted by the slowdown of TSC's processing of NIW I-140 (or I-485, or I-765), you can fill out the form to bring awareness to this delay [from Greg Siskind's tweet](https://twitter.com/gsiskind/status/1351597348577824772). Please make sure to explain your case in: 'Describe the harm the processing delays are causing you'* 
+## National Interest Waiver Wait Time, updated Feb-02-2021 
+* We are hoping to bring the crisis-level processing delays of NIW I-140 at USCIS Texas Service Center to the White House's attention. You can contact the White House at this [link](https://www.whitehouse.gov/contact/). If you need a sample letter, please [follow this link](https://docs.google.com/document/d/1YXZvf5yZCixZnquEdBv5C63LsQ6qbNaQ/edit#).
  
 USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
  
