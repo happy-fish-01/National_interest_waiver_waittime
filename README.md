@@ -1,4 +1,4 @@
-## National Interest Waiver Wait Time, updated Feb-03-2021 
+## National Interest Waiver Wait Time, updated Feb-08-2021 
 * We are hoping to bring the crisis-level processing delays of NIW I-140 at USCIS Texas Service Center to the White House's attention. You can contact the White House at this [link](https://www.whitehouse.gov/contact/). If you need a sample letter, please [follow this link](https://docs.google.com/document/d/1YXZvf5yZCixZnquEdBv5C63LsQ6qbNaQ/edit#).
  
 USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
