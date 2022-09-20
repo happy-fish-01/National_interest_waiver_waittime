@@ -1,4 +1,4 @@
-## National Interest Waiver Wait Time, updated Sep-14-2022 
+## National Interest Waiver Wait Time, updated Sep-19-2022 
 * If you wish to join our Telegram action group to discuss the delays of processing at TSC, please [fill out this form](https://docs.google.com/forms/d/194Vp6uimucdul6iqtNFB1HSKz_z75RKsQ-cp3z7f8YY/viewform?edit_requested=true).
  
 USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
