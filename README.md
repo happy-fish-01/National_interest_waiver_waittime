@@ -1,4 +1,4 @@
-## National Interest Waiver Wait Time, updated May-15-2024 
+## National Interest Waiver Wait Time, updated May-16-2024 
 * sec203(b)(2), Indiv w/Adv Deg or Exceptional Ability in National Interest are counted as NIW cases from now on. 
  
 USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Victoria Chen](https://www.wegreened.com/eb1_niw_approvals)). 
