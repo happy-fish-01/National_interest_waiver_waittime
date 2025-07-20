@@ -15,3 +15,6 @@ USCIS Employment-based-2 NIW I-140 wait time before approval (data source: [Vict
  
 ![Figure_2](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig2.png) 
  
+3. Distribution recreated as a violin plot (better at differentiating PP to regular cases) 
+ 
+![Figure_4](https://raw.githubusercontent.com/happy-fish-01/National_interest_waiver_waittime/main/fig4.png) 
